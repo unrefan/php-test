@@ -1,0 +1,541 @@
+Tail Lengths of Hawks|demo taskfreak|test task gradle|testosterone|Monthly Excess Returns|Annual average sunspot area (1875-2015)|test|just a test
+Tail Lengths of Hawks (Unstacked)|demo-tasks.h|test task scheduler|testicuzzi|Delay in AIDS Reporting in England and Wales|Growth rates of personal consumption and personal income in the USA.
+Correctly Identified Words in a Hearing Test|demo task meaning|test tasker|testicular torsion|Failures of Air-conditioning Equipment|Electricity monthly total net generation. January 1973 - June 2013.
+Heating Oil Consumption|taskray demo|test task sequence|testicular cancer|Failures of Air-conditioning Equipment|Quarterly visitor nights for various regions of Australia.
+Characteristics of Adirondack Hiking Trails|tasker demo|test task c#|test my internet speed|Car Speeding and Warning Signs|"Annual female murder rate (per 100|000 standard population) in the USA. 1950-2004."
+Grinnell College Basketball Games|taskboard demo|test task scheduler laravel|testimony|Remission Times for Acute Myelogenous Leukaemia|Aircraft Crash data
+Prices of Horses|taskworld demo|test tasklet spring batch|testicular pain|Beaver Body Temperature Data|Chronic bronchitis in a sample of men in Cardiff
+"House Prices| Sizes| and Lot Areas"|taskfire demo|test task sequence mdt|testament|Population of U.S. Cities|Historical speed of light measurements
+Olympic Men's Long Jump Gold Medal Distance (1900 - 2008)|taskray demo|ios test background task|a testament|Cardiac Data for Domestic Dogs|A pedigree data on 282 animals deriving from two generations
+Olympic Men's Long Jump Gold Medal Distance (1900 - 2016)|tasker demo|test false belief task|a testoni|Incidence of Down's Syndrome in British Columbia|Example data for ACEnucfam
+Sleep Hours for Teenagers|taskboard demo|task based test|a testable prediction is a|Behavioral and Plumage Characteristics of Hybrid Ducks|A study of Alzheimer's disease with eight SNPs and APOE
+"Return Rates for ""Lost"" Letters"|taskworld demo|test celery task|a test of faith|Counts of Balsam-fir Seedlings|"A study of Parkinson's disease and APOE| LRRK2| SNCA makers"
+Daily Training for a Marathon Runner|taskfire demo|test cron task|a test to determine processor speed|Head Dimensions in Brothers|Growth curves of pigs in a 3x3 factorial experiment
+Daily Change in Dow Jones and Nikkei Stock Market Indices|taskfeed demo|task test.com|a testable explanation of a situation|Acceleration Due to Gravity|Ordinal Data from Koch
+Enrollments in Math Courses|codility demo task|test celery task django|a testable question|Acceleration Due to Gravity|Ohio Children Wheeze Status
+Math Placement Exam Results|codility demo task solution|test control task|a test in spanish|Failure Time of PET Film|Clustered Ordinal Respiratory Disorder
+GPA and Medical School Admission|new nuk demo task|test closure task|a testament of youth|Jura Quartzite Azimuths on Islay|Data from a clinical trial comparing two treatments for a respiratory illness
+Meniscus Repair Methods|antisaccade task demo|task test class in salesforce|a testimony|Average Heights of the Rio Negro river at Manaus|Epiliptic Seizures
+Mental Health Admissions|flanker task demo|tasc test center|test booster|Survival from Malignant Melanoma|Growth of Sitka Spruce Trees
+Metabolic Rate of Caterpillars|meistertask demo|test capistrano task|test boost|Data from a Simulated Motorcycle Accident|Log-size of 79 Sitka spruce trees
+Commute Times|stroop task demo|test task definition|test bench|Neurophysiological Point Process Data|"Prices of 50|000 round cut diamonds"
+Health Services in Metropolitan Areas|task board demo|tasc test dates|test bank solutions|Toxicity of Nitrofen in Aquatic Systems|US economic time series
+Migraines and TMS|taskfreak demo|test django task|test bank nursing|Nodal Involvement in Prostate Cancer|US economic time series
+Ethics and a Milgram Experiment|task manager demo|task test data|test bandwidth|Nuclear Power Station Construction Data|2d density estimate of Old Faithful data
+Standings and Team Statistics from the 2007 Baseball Season|n back task demo|gradle test task debug|test by theodore thomas|Neurotransmission in Guinea Pig Brains|'colors()' in Luv space
+MLB Standings in 2016|task scheduler demo|gradle test task dsl|test battery|Animal Survival Times|Midwest demographics
+Moth Eggs|test camera|usability test task design|test blood sugar|Pole Positions of New Caledonian Laterites|Fuel economy data from 1999 and 2008 for 38 popular models of car
+Effects of Serotonin in Mice|test corrections|test task examples|b test pregnancy|Cancer Remission and Cell Activity|An updated and expanded version of the mammals sleep dataset
+Estimating Time with Different Music Playing|c testing framework|test task elixir|b test neuropsychology|Water Salinity and River Discharge|Terms of 11 presidents from Eisenhower to Obama
+North Carolina Birth Records|c tester|test task epam|b test.net|Survival of Rats after Radiation Doses|Vector field of seal movements
+NFL Standings for 2007 Regular Season|c test if file exists|test engineer task|b test pony club|Tau Particle Decay Modes|Housing sales in TX
+NFL Standings for 2016 Regular Season|c testosterone|test execution task|b testing service|Tuna Sighting Data|Arbuthnot's data on male and female birth ratios in London from 1629-1710.
+Nursing Homes|c test and set|tasc test essay|b test sarcina|Urine Analysis Data|La Felicisima Armada
+Effect of Ultrasound on Oil Deapsorbtion|c test function|gradle test task environment variables|b test nomination form|Australian Relative Wool Prices|"Bowley's data on values of British and Irish trade| 1855-1899"
+Fenthion in Olive Oil|c test for empty string|test task for interview|b test pony club questions|Experimenter Expectations|Cavendish's Determinations of the Density of the Earth
+Space Shuttle O-Rings|c test for null|task test failed|b test wise|American Math Society Survey Data|Chest measurements of 5738 Scottish Militiamen
+Overdrawn Checking Account?|c test if directory exists|test for task|b test pony club book|Moral Integration of American Cities|"William Farr's Data on Cholera in London| 1849"
+Size of Oysters|c testosteroni|gradle test task filter|test connection|U. S. State Public-School Expenditures|Cushny-Peebles Data: Soporific Effects of Scopolamine Derivatives
+Palm Beach Butterfly Ballot|test drive|unit test task factory startnew|test credit card numbers|Arrests for Marijuana Possession|Cushny-Peebles Data: Soporific Effects of Scopolamine Derivatives
+Monthly Peace Bridge Traffic ( 2003-2015)|test drive unlimited|gradle test task failed|test calculator|Methods of Teaching Reading Comprehension|Edgeworth's counts of dactyls in Virgil's Aeneid
+Monthly Peace Bridge Traffic ( 2012-2015)|test driven development|unit test task.fromresult|test cross genetics|British Election Panel Study|Elderton and Pearson's (1910) data on drinking and wages
+Pedometer Walking Data|test definition|vstest task failed|test cricket|Canadian Women's Labour-Force Participation|Waite's data on Patterns in Fingerprints
+Perch Sizes|test drive unlimited 2|gradle test task force|test case|Exercise Histories of Eating-Disordered and Control Subjects|Galton's data on the heights of parents and their children
+Additives in Pig Feed|test drive lyrics|gradle test task|test clipart|Fraudulent Data on IQs of Twins Raised Apart|"Galton's data on the heights of parents and their children| by child"
+Measurements of Pine Tree Seedlings|test drive eve of destruction|ged tasc test|test camera|Canadian Population Data|"Data from A.-M. Guerry| ""Essay on the Moral Statistics of France"""
+Dopamine levels with PKU in diets|test download speed|custom test task gradle|test corrections|"2011 Canadian National Election Study| With Attitude Toward Abortion"|Halley's Life Table
+Political Behavior of College Students|test drive tesla|override test task gradle|c testing framework|Voting Intentions in the 1988 Chilean Plebiscite|W. Stanley Jevons' data on numerical discrimination
+2008 U.S. Presidential Election Polls|test day|create test task gradle|c tester|The 1907 Romanian Peasant Rebellion|van Langren's Data on Longitude Distance between Toledo and Rome
+Popcorn Popping Success|d test clindamycin|add test task gradle|c test if file exists|Cowles and Davis's Data on Volunteering|van Langren's Data on Longitude Distance between Toledo and Rome
+Porsche and Jaguar Prices|d test micro|modify test task gradle|c testosterone|Self-Reports of Height and Weight|"Macdonell's Data on Height and Finger Length of Criminals| used by Gosset (1908)"
+Porsche Prices|d test explained|skip test task gradle|c test and set|Davis's Data on Drive for Thinness|"Macdonell's Data on Height and Finger Length of Criminals| used by Gosset (1908)"
+Pulse Rates and Exercise|d testament books|g road test tasks|c test function|Minnesota Wolf Depredation Data|Michelson's Determinations of the Velocity of Light
+Putting Success by Length (Long Form)|d test clindamycin wikipedia|rails g task test|c test for empty string|Duncan's Occupational Prestige Data|Michelson's Determinations of the Velocity of Light
+Putting Success by Length (Short Form)|d test procedure|unit test task httpresponsemessage|c test for null|The 1980 U.S. Census Undercount|Data from Minard's famous graphic map of Napoleon's march on Moscow
+Hypothetical Putting Data (Short Form)|d test blood clot|vsts visual studio test task hangs|c test if directory exists|Florida County Voting|Data from Minard's famous graphic map of Napoleon's march on Moscow
+Racial Animus and City Demgraphics|d test statistics|is the tasc test hard|c testosteroni|Crowding and Crime in U. S. Metropolitan Areas|Data from Minard's famous graphic map of Napoleon's march on Moscow
+Comparing Twins Ability to Clear Radioactive Particles|d test bacteria|test task in gradle|test drive|Format Effects on Recall|Florence Nightingale's data on deaths from various causes in the Crimean War
+Homes in Northampton MA Near Rail Trails|d test positive mrsa|task test in texas|test drive unlimited|Data on Depression|Latitudes and Longitudes of 39 Points in 11 Old Maps
+Measurements of Rectangles|test engineer|unit test task ihttpactionresult|test driven development|Refugee Appeals|Pearson and Lee's data on the heights of parents and children classified by gender
+Religion and GDP for Countries|test equipment depot|test task js|test definition|Data from the General Social Survey (GSS) from the National Opinion Research Center of the University of Chicago.|Polio Field Trials Data
+Pulse Rates at Various Times of Day|test email|test javafx task|test drive unlimited 2|Anonymity and Cooperation|Parent-Duchatelet's time-series data on the number of prostitutes in Paris
+US Residual Oil Production (Quarterly 1983-2016)|testequity|gradle test task jvm args|test drive lyrics|Canadian Crime-Rates Time Series|Trial of the Pyx
+Yearly Contributions to a Supplemental Retirement Account|test engineer salary|gradle test task junit|test drive eve of destruction|Highway Accidents|Statistics of Deadly Quarrels
+Firefighter Promotion Exam Scores|test e 300|gradle test jar task|test download speed|Treatment of Migraine Headaches|John Snow's Map and Data on the 1854 London Cholera Outbreak
+Elements in River Water Samples|test email address|test task job interview|test drive tesla|Data on Infant-Mortality|John Snow's Map and Data on the 1854 London Cholera Outbreak
+Iron in River Water Samples|test exchange connectivity|javascript test task|test day|Cancer drug data use to provide an example of the use of the skew power distributions.|John Snow's Map and Data on the 1854 London Cholera Outbreak
+Field Goal Attempts in the NFL|test eggs|java test task|d test clindamycin|Contrived Collinear Data|John Snow's Map and Data on the 1854 London Cholera Outbreak
+Ants on Sandwiches|test every spirit|test task for js developer|d test micro|Canadian Interprovincial Migration Data|John Snow's Map and Data on the 1854 London Cholera Outbreak
+SAT Scores and GPA|e test interpretation|kanban test task|d test explained|"Status| Authoritarianism| and Conformity"|John F. W. Herschel's Data on the Orbit of the Twin Stars gamma _Virginis_
+Arctic Sea Ice (1979-2015)|e test strips|test task list|d testament books|"Minneapolis Demographic Data 2015| by Neighborhood"|John F. W. Herschel's Data on the Orbit of the Twin Stars gamma _Virginis_
+Sea Slug Larvae|e test online|test task list app|d test clindamycin wikipedia|Minneapolis Police Department 2017 Stop Data|Playfair's Data on Wages and the Price of Wheat
+Shrew Heart Rates at Stages of Sleep|e tester|test lead task|d test procedure|U.S. Women's Labor-Force Participation|Playfair's Data on Wages and the Price of Wheat
+Sparrow Measurements|e test mic|test luigi task|d test blood clot|O'Brien and Kaiser's Repeated-Measures Data|Student's (1906) Yeast Cell Counts
+Land Area and Mammal Species|e testosterone|usability test task list|d test statistics|Interlocking Directorates Among Major Canadian Firms|Student's (1906) Yeast Cell Counts
+Highway Fatality Rates (Yearly)|e tester belongs to|rbt test task list|d test bacteria|Chemical Composition of Pottery|Darwin's Heights of Cross- and Self-fertilized Zea May Pairs
+Effects of Oxygen on Sugar Metabolism|e test vancomycin|gradle test task logging|d test positive mrsa|Prestige of Canadian Occupations|Total Body Composision Data
+"Suicide Attempts in Shandong| China"|e test personality|test plan task list|test engineer|Four Regression Datasets|Aspirin Data
+Attitudes Towards Swahili in Kenyan Schools|e test reading|test task means|test equipment depot|Fertility and Contraception|BCG Vaccine Data
+Effects of a Fungus on Tadpoles|test fax|test mdt task sequence|test email|Rossi et al.'s Criminal Recidivism Data|Birth and Death Rates Data
+Daily Prices of Three Tech Stocks|test for m.a. seekers crossword|test manager task|testequity|Agricultural Production in Mazulu Village|Bladder Cancer Data
+State Teen Pregnancy Rates|test for diabetes|tasc test math|test engineer salary|Salaries for Professors|Beat the Blues Data
+Textbook Prices|test for ma seekers crossword clue|test msbuild task|test e 300|Survey of Labour and Income Dynamics|Cloud Seeding Data
+US Senate Votes on Clarence Thomas Confirmation|test flight|c# test task method|test email address|Soil Compositions of Physical and Chemical Characteristics|CYG OB1 Star Cluster Data
+Prices of Three Used Car Models (2007)|test for dementia|gradle test task memory|test exchange connectivity|Education and Related Statistics for the U.S. States|Epilepsy Data
+"Price| Age| and Mileage of Three Used Car Models"|test for dyslexia|unit test task method|test eggs|Survival of Passengers on the Titanic|The Forbes 2000 Ranking of the World's Biggest Companies (Year 2004)
+Improve Chances of Getting a Tip?|f test table|rake testtask minitest|test every spirit|Transaction data|Foster Feeding Experiment
+Passengers on the Titanic|test camera|test task nprinting|e test interpretation|"National Statistics from the United Nations| Mostly From 2009-2011"|General Health Questionnaire
+Migraines and TMS|test corrections|task test no-source|e test strips|United Nations Social Indicators Data 1998]|Olympic Heptathlon Seoul 1988
+LaDainian Tomlinson Rushing Yards|c testing framework|task 'test' not found in root project gradle|e test online|Population of the United States|Prevention of Gastointestinal Damages
+Comparing Twins Ability to Clear Radioactive Particles|c tester|task 'test' not found in root project 'bin'|e tester|Vocabulary and Education|Survival Times after Mastectomy of Breast Cancer Patients
+Defense of Undoing OCD Symptoms in Psychotherapy|c test if file exists|tasc test ny|e test mic|Weight Loss Data|Meteorological Measurements for 11 Years
+Price of US Stamps|c testosterone|tasc test nyc|e testosterone|Well Switching in Bangladesh|Oral Lesions in Rural India
+Visual versus Verbal Performance|c test and set|task 'test' not found in root project 'src'|e tester belongs to|Canadian Women's Labour-Force Participation|Phosphate Level Data
+Voltage Drop for a Discharging Capacitor|c test function|tasc test nj|e test vancomycin|Post-Coma Recovery of IQ|Piston Rings Failures
+Effects of Exercise on First Walking|c test for empty string|tasc test online|e test personality|Wool data|Exoplanets Data
+Did the Author Walk the Dogs Today?|c test for null|test of task switching|e test reading|World Values Surveys|Blood Screening Data
+Do Financial Incentives Improve Weight Loss?|c test if directory exists|test of task|test fax|European Union Agricultural Workforces|Familial Andenomatous Polyposis
+Do Financial Incentives Improve Weight Loss? (4 Months)|c testosteroni|gradle test task output|test for m.a. seekers crossword|Attributes of Animals|Familial Andenomatous Polyposis
+Do Financial Incentives Improve Weight Loss? (7 Months)|test drive|gradle test task options|test for diabetes|Subset of C-horizon of Kola Data|Romano-British Pottery Data
+Whickham Health Study|test drive unlimited|gradle test task override|test for ma seekers crossword clue|Flower Characteristics|Rearrests of Juvenile Felons
+Experiment on Word Memory|test driven development|test of task orientation|test flight|Plant Species Traits Data|Respiratory Illness Data
+Words with Friends Scores|test definition|example of test task|test for dementia|Isotopic Composition Plutonium Batches|Students Estimates of Lecture Room Width
+Moving Wet Objects with Wrinkled Fingers|test drive unlimited 2|types of test tasks|test for dyslexia|Ruspini Data|Age of Onset of Schizophrenia Data
+Annual survey of health-risk youth behaviors|test drive lyrics|tasc practice test|f test table|Votes for Republican Candidate in Presidential Elections|Schizophrenia Data
+Riding with a Driver Who Has Been Drinking|test drive eve of destruction|tasc test prep|f test statistic|Bivariate Data Set with 3 Clusters|Days not Spent at School
+Youth Risk Survey|test download speed|test process task|f test calculator|affairs|Egyptian Skulls
+Stand Your Ground Simpson's Paradox|test drive tesla|gradle test task parameters|f test in r|azcabgptca|Nicotine Gum and Smoking Cessation
+Bladder Cancer Recurrences|test day|airflow test task params|f test formula|azdrg112|Student Risk Taking
+NCCTG Lung Cancer Data|d test clindamycin|gradle test task parallel|f test excel|azpro|Crowd Baiting Behaviour and Suicides
+Chronic Granulotamous Disease data|d test micro|gradle test task plugin|f test vs t test|azprocedure|Toothpaste Data
+Chemotherapy for Stage B/C colon cancer|d test explained|test task for qa|f test degrees of freedom|badhealth|House of Representatives Voting Data
+Ddiabetic retinopathy|d testament books|test task ruby|f test regression|fasttrakg|Mortality and Water Hardness
+Assay of serum free light chain for 7874 subjects.|d test clindamycin wikipedia|test rake task|f test p value|fishing|Water Voles Data
+Stanford Heart Transplant data|d test procedure|tasc test results|test generator|lbw|Electricity from Wave Power at Sea
+Kidney catheter data|d test blood clot|test rake task rspec|test guide|lbwgrp|Gain in Weight of Rats
+Acute Myelogenous Leukemia survival data|d test statistics|test run task scheduler|test grader|loomis|Womens Role in Society
+Data from the 1972-78 GSS data used by Logan|d test bacteria|task test requirements|test group|mdvis|"Observed genotype frequencies at MN and S loci| for 2 populations"
+NCCTG Lung Cancer Data|d test positive mrsa|test rail task|test gif|medpar|"Mendel's F2 trifactorial data for seed shape (A: round or wrinkled)| cotyledon color (B: albumen yellow or green)| and seed coat color (C: grey-brown or white)"
+Monoclonal gammopathy data|test engineer|unit test task.run|test graphics card|nuts|Auto Data Set
+Monoclonal gammopathy data|test equipment depot|test task sequence variables|test gpu|rwm|The Insurance Company (TIC) Benchmark
+Acute myeloid leukemia|test email|task test skipped|test games|rwm1984|Sales of Child Car Seats
+Data from the National Wilm's Tumor Study|testequity|test scheduled task spring|test grade|rwm5yr|U.S. News and World Report's College Data
+Ovarian Cancer Survival Data|test engineer salary|tasc test scores|g test canada|ships|Credit Card Balance Data
+Mayo Clinic Primary Biliary Cirrhosis Data|test e 300|task test texas|g test table|smoking|Credit Card Default Data
+Rat treatment data from Mantel et al|test email address|gradle test task type|g test calculator|titanic|Baseball Data
+Diabetic Retinopathy|test exchange connectivity|visual studio test task tfs|g test statistics|titanicgrp|NCI 60 Data
+rhDNASE data set|test eggs|tasker test task|g test in r|Aberrant Crypt Foci in Rat Colons|Orange Juice Data
+Data from a soldering experiment|test every spirit|qcs test writing task tips|g test plus|Australian athletes data set|Portfolio Data
+More Stanford Heart Transplant data|e test interpretation|t code to test task in sap|g test air force|Measurements on a Selection of Books|S&P Stock Market Data
+Tobin's Tobit data|e test strips|task test up-to-date|g test for outliers|Anesthetic Effectiveness|Mid-Atlantic Wage Data
+Liver transplant waiting list|e test online|task test usability|g test goodness of fit|"Averages by block of corn yields| for treatment 111 only"|Weekly S&P Stock Market Data
+Data from a trial of usrodeoxycholic acid|e tester|gradle test task up-to-date|g test excel|Averages by block of yields for the Antigua Corn data|data from Section 1.19
+Projected US Population|e test mic|camunda test user task|test html|Tasting experiment that compared four apple varieties|data from Section 1.9
+Veterans' Administration Lung Cancer study|e testosterone|usability test user task|test harness|Latitudes and longitudes for ten Australian cities|"data from Exercise 13.1| p418"
+Liver related laboratory data|e tester belongs to|sap test update task|test html code|Population figures for Australian States and Territories|"data from Exercise 4.7| p122"
+"Rain| wavesurge| portpirie and nidd datasets."|e test vancomycin|unit test task c#|test hard drive|Biomass Data|"data from Exercise 5.8| p147"
+"Rain| wavesurge| portpirie and nidd datasets."|e test personality|unit test task|test headphones|"Australian and Related Historical Annual Climate Data| by region"|data from Section 1.18
+"Rain| wavesurge| portpirie and nidd datasets."|e test reading|test vs task|test hypothesis|"Australian and Related Historical Annual Climate Data| by region"|data from Section 1.14
+"Air pollution data| separately for summer and winter months"|test fax|run test task vscode|test hard drive speed|"Australian and Related Historical Annual Climate Data| by region"|data from Section 1.3
+"Rain| wavesurge| portpirie and nidd datasets."|test for m.a. seekers crossword|unit test void task|test how fast you type|Southern Oscillation Index Data|"data from Exercise 7.7| p223"
+"Air pollution data| separately for summer and winter months"|test for diabetes|vstest task|test hair color|Southern Oscillation Index Data|data from Section 1.5
+Arthritis Treatment Data|test for ma seekers crossword clue|vstest task github|test hd|Boston Housing Data - Corrected|data from Section 1.6
+Baseball Data|test flight|vstest task tfs|h test eye|US Car Price Data|data from Section 1.16
+Broken Marriage Data|test for dementia|vstest task .net core|h test eye exam|A Summary of the Cars93 Data set|data from Section 1.2
+Ergebnisse der Fussball-Bundesliga|test for dyslexia|vstest task code coverage|h test hamstring|Percentage of Sugar in Breakfast Cereal|"data from Exercise 7.6| p222"
+Votes in German Bundestag Election 2005|f test table|vstest task dotnet core|h test eye muscles|Cape Fur Seal Data|data from Section 1.10
+Butterfly Species in Malaya|test camera|vstest task yaml|h test embroidery|Populations of Major Canadian Cities (1992-96)|data from Section 1.4
+Breathlessness and Wheeze in Coal Miners|test corrections|vstest task v2|h test extraocular muscles|"Dose-mortality data| for fumigation of codling moth with methyl bromide"|Data on 38 individuals using a kidney dialysis machine
+Danish Welfare Study Data|c testing framework|vstest task vsts|h test calculator|Occupation and wage profiles of British cotton workers|data from Section 1.7
+Employment Status|c tester|test windows task scheduler|h test explained|Labour Training Evaluation Data|data from Section 1.8
+'May' in Federalist Papers|c test if file exists|wv tasc test|h test statistics|Labour Training Evaluation Data|"data from Exercise 4.4| p120"
+Hitters Data|c testosterone|test workflow task sap|h test cranial nerves|Labour Training Evaluation Data|data from Section 1.13
+Death by Horse Kicks|c test and set|test workflow task|test internet|Lifespans of UK 1st class cricketers born 1840-1960|data from Section 1.15
+Hospital data|c test function|gradle test task with arguments|test in spanish|Comparison of cuckoo eggs with host eggs|"data from Exercise 7.13| p225"
+Job Satisfaction Data|c test for empty string|ielts test writing task 1|test image|Cuckoo Eggs Data|data from Section 1.12
+Opinions About Joint Sports|c test for null|ielts test writing task 2|test internet connection speed|"Dengue prevalence| by administrative region"|"data from Exercise 5.6| p146"
+Lifeboats on the Titanic|c test if directory exists|ielts test writing task 1 examples|test ipv6|Dewpoint Data|data from Section 1.11
+Diagnosis of Multiple Sclerosis|c testosteroni|kent test writing task|test iq|Periods Between Rain Events|"data from Exercise 7.14| p225"
+Non-Response Survey Data|test drive|visual studio test task xunit|test icon|EPICA Dome C Ice Core 800KYr Carbon Dioxide Data|Yield data from a Minnesota barley trial
+Ovary Cancer Data|test drive unlimited|visual studio test task x64|test internet speed frontier|EPICA Dome C Ice Core 800KYr Temperature Estimates|Atmospheric environmental conditions in New York City
+Pre-marital Sex and Divorce|test driven development|xunit test task|test innovators|Elastic Band Data Replicated|Engine exhaust fumes from burning ethanol
+Corporal Punishment Data|test definition|ielts test task 1|i testigo|Elastic Band Data Replicated Again|Melanoma skin cancer incidence
+Repeat Victimization Data|test drive unlimited 2|writing test task 1|i testify|Elastic Band Data|Heights of New York Choral Society singers
+Rochdale Data|test drive lyrics|speaking test task 1|i tested positive for hpv|Fossil Fuel Data|Mortality Rates in US by Cause and Gender
+Families in Saxony|test drive eve of destruction|ielts test task 1 writing|i tested positive for hsv 1|Female Possum Measurements|Mortality Rates in US by Cause and Gender
+Sex is Fun|test download speed|mock test task 1|i test in production|Frogs Data|Arabidopsis clipping/fertilization data
+Space Shuttle O-ring Failures|test drive tesla|ielts test task 1 academic|i tested positive for tb|Frosted Flakes data|Breakage Angle of Chocolate Cakes
+Suicide Rates in Germany|test day|practice test task 1|itestigo cast|Electrical Resistance of Kiwi Fruit|Contagious bovine pleuropneumonia
+Truck Accidents Data|d test clindamycin|ielts test task 1 table|i testify by ada|Effect of pentazocine on post-operative pain (average VAS scores)|Yield of dyestuff by batch
+UK Soccer Scores|d test micro|test 1 writing task 2|i tested negative for herpes|Seismic Timing Data|Yield of dyestuff by batch
+Visual Acuity in Left and Right Eyes|d test explained|cambridge 11 test 1 task 2|i tested positive for herpes|Yearly averages of Great Lake heights: 1918 - 2009|Data on red grouse ticks from Elston et al. 2001
+Von Bortkiewicz Horse Kicks Data|d testament books|cambridge 9 test 1 task 2|test java|Alcohol consumption in Australia and New Zealand|University Lecture/Instructor Evaluations by Students at ETH
+Weldon's Dice Data|d test clindamycin wikipedia|cambridge 10 test 1 task 2|test javascript|Minor Head Injury (Simulated) Data|Paste strength by batch and cask
+Women in Queues|d test procedure|cambridge 8 test 1 task 2|test javascript online|Minor Head Injury (Simulated) Data|Variation in penicillin testing
+U.S. Presidential Approval Data|d test blood clot|task 1 test|test java code|Scottish Hill Races Data|Reaction times in a sleep deprivation study
+Sample data for bivariate probit regression|d test statistics|cambridge 7 test 1 task 2|test json|Scottish Hill Races Data - 2000|Verbal Aggression item responses
+Cigarette Consumption Panel Data|d test bacteria|cambridge 6 test 1 task 2|test java code online|Hawaian island chain hotspot Potassium-Argon ages|Data set for Unstructured Treatment Interruption Study
+Coalition Dissolution in Parliamentary Democracies|d test positive mrsa|ielts 10 test 1 task 2|test javascript code|Hawaian island chain hotspot Argon-Argon ages|Determinations of Nickel Content
+"Coalition Dissolution in Parliamentary Democracies| Modified Version"|test engineer|ielts test task 2|test jpg|Aranda House Prices|Accidental Deaths in the US 1973-1978
+Simulation Data for Ecological Inference|test equipment depot|writing test task 2|test json api|"Oxygen uptake versus mechanical power| for humans"|Australian AIDS Survival Data
+Freedom of Speech Data|test email|writing test task 2 ielts|test js|"Oxygen uptake versus mechanical power| for humans"|Brain and Body Weights for 28 Species
+Freedom of Speech Data|testequity|speaking test task 2|j test statistics|Named US Atlantic Hurricanes|Anorexia Data on Weight Change
+Simulated Example of Schoolchildren Friendship Network|test engineer salary|mock test task 2|j test knee|Blood pressure versus Salt; inter-population data|Presence of Bacteria after Drug Treatments
+Simulation Data for model Seemingly Unrelated Regression (sur) that corresponds to method SUR of systemfit|test e 300|ielts speaking test task 2|j test econometrics|Iron Content Measurements|Body Temperature Series of Beaver 1
+Social Security Expenditure Data|test email address|ielts writing test task 2 samples|j test in r|Canadian Labour Force Summary Data (1995-96)|Body Temperature Series of Beaver 2
+Sample Data on Home Runs Hit By Mark McGwire and Sammy Sosa in 1998.|test exchange connectivity|cambridge 11 test 2 task 1|j test usa|Kiwi Shading Data|Biopsy Data on Breast Cancer Patients
+Individual Preferences Over Immigration Policy|test eggs|cambridge 10 test 2 task 1|j test result|Full Leaf Shape Data Set|Risk Factors Associated with Low Infant Birth Weight
+Individual Preferences Over Immigration Policy|test every spirit|cambridge 9 test 2 task 1|j test mongolia|Subset of Leaf Shape Data Set|Housing Values in Suburbs of Boston
+Individual Preferences Over Immigration Policy|e test interpretation|ielts 11 test 2 task 1|j test exam|Leaf and Air Temperature Data|Data from a cabbage field trial
+Individual Preferences Over Immigration Policy|e test strips|book 6 test 2 task 1|j test indonesia|Full Leaf and Air Temperature Data Set|Colours of Eyes and Hair of People in Caithness
+Individual Preferences Over Immigration Policy|e test online|cambridge 8 test 2 task 1|j test nepal|Mouse Litters|Data from 93 Cars on Sale in the USA in 1993
+Individual Preferences Over Immigration Policy|e tester|book 11 test 2 task 1|test kitchen recipes|Ontario Lottery Data|Anatomical Data from Domestic Cats
+Simulation Data for model Two-Stage Least Square (twosls) that corresponds to method 2SLS of systemfit|e test mic|cambridge 7 test 2 task 1|test king|Cape Fur Seal Lung Measurements|Heat Evolved by Setting Cements
+Simulation Data for model Three-Stage Least Square (threesls) that corresponds to method 3SLS of systemfit|e testosterone|ielts speaking test task 3|test keyboard|The Nine Largest Lakes in Manitoba|Copper in Wholemeal Flour
+Macroeconomic Data|e tester belongs to|writing test 3 task 1|test kitchen cape town|Deaths in London from measles|Co-operative Trial in Analytical Chemistry
+Table of links for Zelig|e test vancomycin|reading task test 3|test kitchen jobs|Family Medical Expenses|Performance of Computer CPUs
+Voting Data from the 1988 Mexican Presidental Election|e test personality|cambridge 11 test 3 task 1|test kitchen cookbook|Mortality Outcomes for Females Suffering Myocardial Infarction|Morphological Measurements on Leptograpsus Crabs
+Militarized Interstate Disputes|e test reading|cambridge 9 test 3 task 1|test keyboard keys|Darwin's Wild Mignonette Data|Diagnostic Tests on Patients with Cushing's Syndrome
+The Discretized Painter's Data of de Piles|test fax|cambridge 7 test 3 task 1|test ketone levels|Milk Sweetness Study|DDT in Kale
+Political Economic Risk Data from 62 Countries in 1987|test for m.a. seekers crossword|cambridge 10 test 3 task 1|test kitchen south africa|Model Car Data|Monthly Deaths from Lung Diseases in the UK
+Multilateral Economic Sanctions|test for diabetes|cambridge 7 test 3 task 2|k test results|WHO Monica Data|Deaths of Car Drivers in Great Britain 1969-84
+Left Party Seat Share in 11 OECD Countries|test for ma seekers crossword clue|cambridge 8 test 3 task 1|k test statistics|Moths Data|Foraging Ecology of Bald Eagles
+Simulated Example of Social Network Data|test flight|cambridge 9 test 3 task 2|k test normal range|Airbag and other influences on accident fatalities|Seizure Counts for Epileptics
+U.S. Supreme Court Vote Matrix|test for dementia|cambridge 10 test 4 task 2|k testing laboratory inc|Documentation of names of columns in nass9702cor|Ecological Factors in Farm Management
+Swiss Fertility and Socioeconomic Indicators (1888) Data|test for dyslexia|ielts writing test 4 task 1|k test blood|Record times for Northern Ireland mountain running events|Measurements of Forensic Glass Fragments
+Tobin's Tobit Data|f test table|cambridge 11 test 4 task 1|k restaurant|Labour Training Evaluation Data|Forbes' Data on Boiling Points in the Alps
+Turnout Data Set from the National Election Survey|test camera|cambridge 9 test 4 task 1|k restriction|Labour Training Evaluation Data|Level of GAG in Urine of Children
+Sample Turnout and Demographic Data from the 2000 Current Population Survey|test corrections|cambridge 7 test 4 task 1|k restaurant near me|Labour Training Evaluation Data|Velocities for 82 Galaxies
+1932 Weimar election data|c testing framework|cambridge 8 test 4 task 1|k restaurant names|A Subset of the nsw74psid1 Data Set|Remission Times of Leukaemia Patients
+Table of links for Zelig|c tester|gradle 4 test task|k restaurant moorea|Labour Training Evaluation Data|Rat Genotype Data
+|c test if file exists|test 4 writing task 1 book 10|test light|Labour Training Evaluation Data|Old Faithful Geyser Data
+|c testosterone|celpip speaking test task 5|test ldap connection|Measurements on 12 books|Line Transect of Soil in Gilgai Territory
+|c test and set|cambridge 12 test 5 task 1|test leads|Challenger O-rings Data|Record Times in Scottish Hill Races
+|c test function|ielts 12 test 5 task 2|test light bulb|Ozone Data|Frequency Table from a Copenhagen Housing Conditions Survey
+|c test for empty string|cambridge 12 test 5 task 2|test link|Heated Elastic Bands|Yields from a Barley Field Trial
+|c test for null|ielts 12 test 5 task 1|test latency|Possum Measurements|Numbers of Car Insurance claims
+|c test if directory exists|gradle 5 test task|test laptop camera|Possum Sites|Survival Times and White Blood Counts for Leukaemia Patients
+|c testosteroni|cambridge 5 test 2 task 2|test lead kit|"Deaths from various causes| in London from 1629 till 1881| with gaps"|Brain and Body Weights for 62 Species of Land Mammals
+|test drive|book 5 test 2 task 2|test lan speed|Primate Body and Brain Weights|Data from a Simulated Motorcycle Accident
+|test drive unlimited|cambridge 12 test 6 task 1|test laptop battery|"Progression of Record times for track races| 1912 - 2008"|Survival from Malignant Melanoma
+|test driven development|cambridge 12 test 6 task 2|l test amputee|Labour Training Evaluation Data|Age of Menarche in Warsaw
+|test definition|test 6 writing task 1|l test of functional mobility|Labour Training Evaluation Data|Michelson's Speed of Light Data
+|test drive unlimited 2|book 6 test 1 task 1|l test agility|Labour Training Evaluation Data|Minnesota High School Graduates of 1938
+|test drive lyrics|cambridge 6 test 1 task 1|l testicular pain icd 10|Scottish Hill Races Data - 2000|Accelerated Life Testing of Motorettes
+|test drive eve of destruction|celpip speaking test task 7|l test icbc|Rainforest Data|Effect of Calcium Chloride on Muscle Contraction in Rat Hearts
+|test download speed|cambridge 12 test 7 task 1|l test booking|Rare and Endangered Plant Species|Newcomb's Measurements of the Passage Time of Light
+|test drive tesla|task 7 test 3|l test qld|Genetically Modified and Wild Type Rice Data|Eighth-Grade Pupils in the Netherlands
+|test day|test 7 writing task 2|l test sa|Pacific Rock Art features|"Classical N| P| K Factorial Experiment"
+|d test clindamycin|cambridge 7 test 1 task 1|l test vic|Lawn Roller Data|US Naval Petroleum Reserve No. 1 data
+|d test micro|book 7 test 1 task 1|test my wifi speed|School Science Survey Data|Data from an Oats Field Trial
+|d test explained|celpip speaking test task 8|test master|Barley Seeding Rate Data|Tests of Auditory Perception in Children with OME
+|d testament books|cambridge 12 test 8 task 1|test maker|Social Support Data|The Painter's Data of de Piles
+|d test clindamycin wikipedia|cambridge 12 test 8 task 2|test meme|Measurements on a Selection of Paperback Books|N. L. Prater's Petrol Refinery Data
+|d test procedure|task 8 test 4|test my ping|sorption data set|Belgium Phone Calls 1950-1973
+|d test blood clot|test 8 writing task 2|test marketing|Closing Numbers for S and P 500 Index|Diabetes in Pima Indian Women
+|d test statistics|test 8 writing task 1|test my typing speed|Closing Numbers for S and P 500 Index - First 100 Days of 1990|Diabetes in Pima Indian Women
+|d test bacteria|cambridge 8 test 1 task 1|m test houston|Spam E-mail Data|Diabetes in Pima Indian Women
+|d test positive mrsa|cambridge 8 test 2 task 2|m testosterone|Averages by block of yields for the St. Vincent Corn data|Absenteeism from School in Rural New South Wales
+|test engineer|cambridge 9 test 1 task 1|m test cel|Sugar Data|Blood Pressure in Rabbits
+|test equipment depot|ielts 9 test 3 task 1|m tester|Car Window Tinting Experiment Data|Road Accident Deaths in US States
+|test email|book 9 test 1 task 1|m restaurant|Root weights of tomato plants exposed to 4 different treatments|Numbers of Rotifers by Fluid Density
+|testequity|cambridge 9 test 2 task 2|m testa|Toy Cars Data|Accelerated Testing of Tyre Rubber
+|test engineer salary|1 testosterone results|m test reviews|"Averages by block of corn yields| for treatment 111 only"|Ships Damage Data
+|test e 300|test 250|m test 7|Video Lottery Terminal Data|"Shoe wear data of Box| Hunter and Hunter"
+|test email address|test 200|m testosterone booster|Wages of Lancashire Cotton Factory Workers in 1833|Percentage of Shrimp in Shrimp Cocktail
+|test exchange connectivity|test 2a ap statistics answers|m test for autism|"Deaths from whooping cough| in London"|Space Shuttle Autolander Problem
+|test eggs|test 2 sat|test network speed|"Record times for track and road races| at August 9th 2006"|Growth Curves for Sitka Spruce Trees in 1988
+|test every spirit|test 220 outlet|test nwea|Ability and Intelligence Tests|Growth Curves for Sitka Spruce Trees in 1989
+|e test interpretation|test 2b ap statistics answers|test network|"Passenger Miles on Commercial US Airlines| 1937-1960"|AFM Compositions of Aphyric Skye Lavas
+|e test strips|test 2 baby|test now|Monthly Airline Passenger Numbers 1949-1960|Snail Mortality Data
+|e test online|test 23|testng|New York Air Quality Measurements|Returns of the Standard and Poors 500
+|e tester|test 250 cycle|test ntp server|Anscombe's Quartet of 'Identical' Simple Linear Regressions|The Saturated Steam Pressure Data
+|e test mic|test 2 sat answers|test negative|The Joyner-Boore Attenuation Data|The Stormer Viscometer Data
+|e testosterone|2 test plug|test nat type|The Chatterjee-Price Attitude Data|Student Survey Data
+|e tester belongs to|2 test ball|test nginx config|Quarterly Time Series of the Number of Australian Residents|Synthetic Classification Problem
+|e test vancomycin|2 testosterone cream|n test 600|Sales Data with Leading Indicator|Synthetic Classification Problem
+|e test personality|2 test ball plug|n test trial|Biochemical Oxygen Demand|Spatial Topographic Data
+|e test reading|2 test tee|n test 600 advanced|Speed and Stopping Distances of Cars|Effect of Swedish Speed Limits on Accidents
+|test fax|2 testosterone|n test tips|Weight versus age of chicks on different diets|Nutritional and Marketing Information on US Cereals
+|test for m.a. seekers crossword|2 test cap|n test cost|Chicken Weights by Feed Type|The Effect of Punishment Regimes on Crime Rates
+|test for diabetes|2 test and drain|n tester|Mauna Loa Atmospheric CO2 Concentration|Veteran's Administration Lung Cancer Trial
+|test for ma seekers crossword clue|2 test tb test|n test tool|Carbon Dioxide Uptake in Grass Plants|Counts of Waders at 15 Sites in South Africa
+|test flight|2 testosterone gel|n test tips icbc|Student's 3000 Criminals Data|House Insulation: Whiteside's Data
+|test for dementia|test 300|n test reddit|Yearly Numbers of Important Discoveries|Weight Loss Data from an Obese Patient
+|test for dyslexia|test 3d print|n tester price|Elisa assay of DNase|Example Data for the Design Functions
+|f test table|test 3 sat answers|test of strength|"Smoking| Alcohol and (O)esophageal Cancer"|Example Data for the Crossover Encouragement Design
+|test camera|test 350|test optional colleges|Conversion Rates of Euro Currencies|"Brader| Valentino and Suhay (2008) Framing Experiment Data"
+|test corrections|test 3a ap statistics|test of strength wow|"Daily Closing Prices of Major European Stock Indices| 1991-1998"|JOBS II data
+|c testing framework|test 360|test of skulls|Old Faithful Geyser Data|School-level data
+|c tester|test 3 phase motor|test optional colleges in pa|Determination of Formaldehyde|Hypothetical student-level data
+|c test if file exists|test 3b ap statistics|test of endurance|Freeny's Revenue Data|Subset of variables from the CHAIN project
+|c testosterone|test 300 steroids|test of lore classic|Hair and Eye Color of Statistics Students|National Longitudinal Survey of Youth Extract
+|c test and set|test 3 way switch|test of righteousness|Harman Example 2.3|Alcohol Consumption per Capita
+|c test function|3 test plug|o testamento do senhor napumoceno|Harman Example 7.4|US Births in 1969 - 1988
+|c test for empty string|3 test ball|no tests found for given includes|Pharmacokinetics of Indomethacin|US Births
+|c test for null|3 testis|no testosterone|Infertility after Spontaneous and Induced Abortion|US Births in 2015
+|c test if directory exists|3 test oxo|no tests were found intellij|Effectiveness of Insect Sprays|US Births in 1978
+|c testosteroni|3 test tee|no tests found matching method|Edgar Anderson's Iris Data|Standard Deck of Cards
+|test drive|3 test taking strategies|no test is available in|Edgar Anderson's Iris Data|CoolingWater
+|test drive unlimited|3 testable questions|no tests found exiting with code 1|Areas of the World's Major Landmasses|Countries
+|test driven development|3 test tubes|no tests found to run|Quarterly Earnings per Johnson & Johnson Share|Data from the 1985 Current Population Survey (CPS85)
+|test definition|3 test pipe|no tests found for given includes gradle|Level of Lake Huron 1875-1972|Weight of dimes
+|test drive unlimited 2|3 test for cdl|no tests found matching|Luteinizing Hormone in Blood Samples|Galton's dataset of parent and child heights
+|test drive lyrics|test 400|test print|Intercountry Life-Cycle Savings Data|Data from the Child Health and Development Studies
+|test drive eve of destruction|test 4k|test prep|Growth of Loblolly pine trees|Goose Permit Study
+|test download speed|test 473|test pdf|Longley's Economic Regression Data|Data from a heat exchanger laboratory
+|test drive tesla|test 400 dosage|test plan|Annual Canadian Lynx trappings 1821-1934|Health Evaluation and Linkage to Primary Care
+|test day|test 450|test print page|Michelson Speed of Light Data|Health Evaluation and Linkage to Primary Care
+|d test clindamycin|test 400 stack|test pattern|Motor Trend Car Road Tests|Health Evaluation and Linkage to Primary Care
+|d test micro|test 4g speed|test proctor|Average Yearly Temperatures in New Haven|Foot measurements in children
+|d test explained|test 4 sat answers|test plan template|Flow of the River Nile|Marriage records
+|d testament books|test 4k sx-7 revolution|test ping|"Average Monthly Temperatures at Nottingham| 1920-1939"|Mites and Wilt Disease
+|d test clindamycin wikipedia|test 4k monitor|test prep usa|"Classical N| P| K Factorial Experiment"|Volume of Users of a Rail Trail
+|d test procedure|4 test plug|p test calculus|Occupational Status of Fathers and their Sons|Volume of Users of a Massachusetts Rail Trail
+|d test blood clot|4 test ball|p test calculator|Growth of Orange Trees|Houses in Saratoga County (2006)
+|d test statistics|4 test asvab|p test statistics|Potency of Orchard Sprays|State by State SAT data
+|d test bacteria|4 testosterone killing foods|p test convergence|Results from an Experiment on Plant Growth|"Snowfall data for Grand Rapids| MI"
+|d test positive mrsa|4 test ged|p test vs t test|Annual Precipitation in US Cities|100 m Swimming World Records
+|test engineer|4 tests of highest and best use|p test excel|Quarterly Approval Ratings of US Presidents|Cherry Blossom Race
+|test equipment depot|4 test tee|p test series|Vapor Pressure of Mercury as a Function of Temperature|Utility bills
+|test email|4 test for cdl|p test integral|Reaction Velocity of an Enzymatic Reaction|Utility bills
+|testequity|4 test asvab practice|p test formula|Locations of Earthquakes off Fiji|Weather
+|test engineer salary|4 test cap|p test for goats|Random Numbers from Congruential Generator RANDU|Data from the Whickham survey
+|test e 300|test 500|test questions|Lengths of Major North American Rivers|Rheumatoid Arthritis Clinical Trial
+|test email address|test 5 sat answers|test qr code|Measurements on Petroleum Rock Samples|Homeless Data
+|test exchange connectivity|test 5.1|test quotes|Road Casualties in Great Britain 1969-84|Cigarette Consumption
+|test eggs|test 5 love languages|test quiz|Student's Sleep Data|Crime in North Carolina
+|test every spirit|test 50 hunting|test question generator|Brownlee's Stack Loss Plant Data|Employment and Wages in the United Kingdom
+|e test interpretation|test 50 states|test questions and answers|"Monthly Sunspot Data| from 1749 to ""Present"""|Gasoline Consumption
+|e test strips|test 5 scoring|test quizlet|"Yearly Sunspot Data| 1700-1988"|Grunfeld's Investment Data
+|e test online|test 5 pin relay|test quest|"Monthly Sunspot Numbers| 1749-1983"|Hedonic Prices of Census Tracts in the Boston Area
+|e tester|test 50 colorado|test question types|Swiss Fertility and Socioeconomic Indicators (1888) Data|Wages and Hours Worked
+|e test mic|test 5g speed|test question bank|Pharmacokinetics of Theophylline|Wages and Education of Young Males
+|e testosterone|5 testosterone cream|q test calculator|Survival of passengers on the Titanic|Purchasing Power Parity and other parity relationships
+|e tester belongs to|5 test taking strategies|q test chart|The Effect of Vitamin C on Tooth Growth in Guinea Pigs|US States Production
+|e test vancomycin|5 testable questions|q test software|"Yearly Treering Data| -6000-1979"|Production of Rice in Indonesia
+|e test personality|5 test plug|q test alcohol|"Girth| Height and Volume for Black Cherry Trees"|Employment and Wages in Spain
+|e test reading|5 testable science questions|q test tool|Student Admissions at UC Berkeley|"The Penn World Table| v. 5"
+|test fax|5 tests for stroke|q tester|Road Casualties in Great Britain 1969-84|Panel Data of Individual Wages
+|test for m.a. seekers crossword|5 test taking tips|q test for heterogeneity|UK Quarterly Gas Consumption|Yearly batting records for all major league baseball players
+|test for diabetes|5 test for qualifying child|q test urine test|Accidental Deaths in the US 1973-1978|Monthly ozone measurements over Central America.
+|test for ma seekers crossword clue|5 tests of a fixture|q test ovulation|Violent Crime Rates by US State|Absentee and Machine Ballots in Pennsylvania State Senate Races
+|test flight|5 tests for extraterrestrial life|q test adhd|Lawyers' Ratings of State Judges in the US Superior Court|Applications to a Political Science PhD Program
+|test for dementia|test 600|test retest reliability|Personal Expenditure Data|"Political opinion polls in Australia| 2004-07"
+|test for dyslexia|test 600x|test results|Populations Recorded by the US Census|"elections to Australian House of Representatives| 1949-2016"
+|f test table|test 600 advanced|testrail|Death Rates in Virginia (1940)|article production by graduate students in biochemistry Ph.D. programs
+|test camera|test 6 sat answers|test run|Topographic Information on Auckland's Maunga Whau Volcano|California Congressional Districts in 2006
+|test corrections|test 600 advanced side effects|test regex|The Number of Breaks in Yarn during Weaving|"Batting Averages for 18 major league baseball players| 1970"
+|c testing framework|test 600x side effects|test review|Average Heights and Weights for American Women|"U.S. Senate vote on the use of force against Iraq| 2002."
+|c tester|test 66|test reliability|The World's Telephones|political parties appearing in the U.S. Congress
+|c test if file exists|test 600 pmd|test routing number|Internet Usage per Minute|Interviewer ratings of respondent levels of political information
+|c testosterone|test 6 scoring|test ram|Acifluorfen and diquat tested on Lemna minor.|"elections for U.S. President| 1932-2016| by state"
+|c test and set|test 600 reviews|test reaction time|Volume of algae as function of increasing concentrations of a herbicide|Prussian army horse kick data
+|c test function|6 test ball|r test for normality|Effect of technical grade and commercially formulated auxin herbicides|"Voter turnout experiment| using Rock The Vote ads"
+|c test for empty string|6 test plug|r testthat|Germination of common chickweed (_Stellaria media_)|information about the American states needed for U.S. Congress
+|c test for null|6 test tubes|r test statistic|Germination of common chickweed (_Stellaria media_)|1992 United Kingdom electoral returns
+|c test if directory exists|6 test ball plug|r test train split|Daphnia test|cross national rates of trade union density
+|c testosteroni|6 test cap|r test correlation|Performance of decontaminants used in the culturing of a micro-organism|Reports of voting in the 1992 U.S. Presidential election.
+|test drive|6 test kitchen|r test if string contains|Deguelin applied to chrysanthemum aphis|16 ability items scored as correct or incorrect.
+|test drive unlimited|6 test tee|r test if file exists|Earthworm toxicity test|Two data sets of affect and arousal scores as a function of personality and movie conditions
+|test driven development|6 test taking strategies|r test for na|Effect of erythromycin on mixed sewage microorganisms|Seven data sets showing a bifactor solution.
+|test definition|6 test ashes series|r test for equal variance|Example from Finney (1971)|Seven data sets showing a bifactor solution.
+|test drive unlimited 2|6 tests of planning conditions|r test if null|Herbicide applied to Galium aparine|Seven data sets showing a bifactor solution.
+|test drive lyrics|test 7 sat answers|test speed|Germination of three crops|25 Personality items representing 5 factors
+|test drive eve of destruction|test 7.1 surround|test statistic|Glyphosate and metsulfuron-methyl tested on algae.|25 Personality items representing 5 factors
+|test download speed|test 7.1|test strips|Mortality of tobacco budworms|A 29 x 29 matrix that produces weird factor analytic results
+|test drive tesla|test 7 sat scoring|test statistic calculator|Heart rate baroreflexes for rabbits|Bond's Logical Operations Test - BLOT
+|test day|test 7 dpo|test search|Leaf length of barley|11 emotional variables from Burt (1915)
+|d test clindamycin|test 71 torpedo|test sound|Dose-response profile of degradation of agrochemical using lepidium|12 cognitive variables from Cattell (1963)
+|d test micro|test 7.1 headphones|test statistic formula|Hormesis in lettuce plants|Distances between 11 US cities
+|d test explained|test 7.1 surround sound|test strips for money|Effect of an effluent on the growth of mysid shrimp|Galton's example of the relationship between height and 'cubit' or forearm length
+|d testament books|test 7 drivers ed|test scores|Mechlorprop and terbythylazine tested on Lemna minor|"A data set from Cushny and Peebles (1905) on the effect of three drugs on hours of sleep| used by Student (1908)"
+|d test clindamycin wikipedia|test 7.3 injectors|s test statistics|Data from heavy metal mixture experiments|8 cognitive variables used by Dwyer for an example.
+|d test procedure|7 tests of just cause|s testosterone|Weight gain for different methionine sources|Eysenck Personality Inventory (EPI) data for 3570 participants
+|d test blood clot|7 testing principles|s testo|Dose-response profile of degradation of agrochemical using nasturtium|13 personality scales from the Eysenck Personality Inventory and Big 5 inventory
+|d test statistics|7 tests for material participation|s testing service|Test data from a 21 day fish test|Eysenck Personality Inventory (EPI) data for 3570 participants
+|d test bacteria|7 testosterone killers|s testosterone free|Effect of sodium pentachlorophenate on growth of fathead minnow|Eysenck Personality Inventory (EPI) data for 3570 participants
+|d test positive mrsa|7 tests for 70 beaumont|s testosterone test price|Competition between two biotypes|Galton's Mid parent child height data
+|test engineer|7 tests just cause arbitration|s testo blood test|Effect of ferulic acid on growth of ryegrass|"Example data from Gleser| Cronbach and Rajaratnam (1965) to show basic principles of generalizability theory."
+|test equipment depot|7 test of true love|s testimonials|Potency of two herbicides|Example data set from Gorsuch (1997) for an example factor extension.
+|test email|7 tests for mineral identification|s testosterone test in hindi|Effect of cadmium on growth of green alga|Five data sets from Harman (1967). 9 cognitive variables from Holzinger and 8 emotional variables from Burt
+|testequity|7 tests to identify minerals|tesla s|Root length measurements|Five data sets from Harman (1967). 9 cognitive variables from Holzinger and 8 emotional variables from Burt
+|test engineer salary|7 testaments|test tube holder|Data from toxicology experiments with selenium|Five data sets from Harman (1967). 9 cognitive variables from Holzinger and 8 emotional variables from Burt
+|test e 300|test 800 number|test tube rack|Inhibition of photosynthesis|A data.frame of the Galton (1888) height and cubit data set.
+|test email address|test 8 answers|test track|The effect of terbuthylazin on growth rate|Seven data sets showing a bifactor solution.
+|test exchange connectivity|test 8 scoring|test tube clamp|Vinclozolin from AR in vitro assay|Seven data sets showing a bifactor solution.
+|test eggs|test 8 managing time and space|test tube brush|Ship Accidents|US family income from US census 2008
+|test every spirit|test 888 number|test track park|Cost for U.S. Airlines|16 multiple choice IQ items
+|e test interpretation|test 8n coil|t test calculator|Air Quality for Californian Metropolitan Areas|75 mood items from the Motivational State Questionnaire for 3896 participants
+|e test strips|test 8-3 mystatlab final examination|t test formula|Countries in Banking Crises|75 mood items from the Motivational State Questionnaire for 3032 unique participants
+|e test online|test 802.1x authentication|t test table|Unemployment of Blue Collar Workers|NEO correlation matrix from the NEO_PI_R manual
+|e tester|test 8.8.8.8|t test excel|Bids Received By U.S. Firms|Galton's Peas
+|e test mic|8 test plug|t test in r|Cyber Security Breaches|Seven data sets showing a bifactor solution.
+|e testosterone|8 test ball|t test statistics|Budget Share of Food for Spanish Households|State Anxiety data from the PMC lab over multiple occasions.
+|e tester belongs to|8 test cap|t test assumptions|Budget Shares for Italian Households|State Anxiety data from the PMC lab over multiple occasions.
+|e test vancomycin|8 test ball plug|t test vs z test|Budget Shares of British Households|"3 Measures of ability: SATV| SATQ| ACT"
+|e test personality|8 testosterone boosting foods|t test p value|Wages in Belgium|12 variables created by Schmid and Leiman to show the Schmid-Leiman Transformation
+|e test reading|8 tests to identify a mineral|t test vs anova|Stock Market Data|The Schutz correlation matrix example from Shapiro and ten Berge
+|test fax|8 testo|test upload speed|Stated Preferences for Car Choice|A sample from the SAPA Personality Inventory including an item dictionary and scoring keys.
+|test for m.a. seekers crossword|8 tests for special causes|test ufo|The California Test Score Data Set|A sample from the SAPA Personality Inventory including an item dictionary and scoring keys.
+|test for diabetes|8 test in driving|test udp port|Choice of Brand for Catsup|State Anxiety data from the PMC lab over multiple occasions.
+|test for ma seekers crossword clue|8.test çöz|test url|Cigarette Consumption|Data set testing causal direction in presumed media influence
+|test flight|test 911|test upload download speed|The Cigarette Consumption Panel Data Set|Data set testing causal direction in presumed media influence
+|test for dementia|test 9v battery|test user|Sales Data of Men's Fashion Stores|Seven data sets showing a bifactor solution.
+|test for dyslexia|test 911 call|test usb speed|Prices of Personal Computers|Seven data sets showing a bifactor solution.
+|f test table|test 9 answers|test udp connection|Quarterly Data on Consumption and Expenditure|Seven data sets showing a bifactor solution.
+|test camera|test 9dpo|test used to measure flexibility|Earnings from the Current Population Survey|9 Cognitive variables discussed by Tucker and Lewis (1973)
+|test corrections|test 9 scoring|test uncertainty ratio|Choice of Brand for Crakers|An example of the distinction between within group and between group correlations
+|c testing framework|test 955|u test vs t test|Growth of CRAN|Barro Data
+|c tester|test 911 address|u test statistics|Crime in North Carolina|Boscovich Data
+|c test if file exists|9 testimony|u test in r|Daily Returns from the CRSP Database|Cobar Ore data
+|c testosterone|9 test personality|u test calculator|Monthly Returns from the CRSP Database|Engel Data
+|c test and set|9 testosterone level|utest o meter|Pricing the C's of Diamond Stones|Time Series of US Gasoline Prices
+|c test function|9 testosterone friendly fruits|u test python|DM Dollar Exchange Rate|Garland(1983) Data on Running Speed of Mammals
+|c test for empty string|9 test paper|u testament|Number of Doctor Visits|UIS Drug Treatment study data
+|c test for null|9 tests of organisation design|utest drug test|Doctor Visits in Australia|Sensory data from a french fries experiment.
+|c test if directory exists|9 tests of scorpio|u test matlab|Contacts With Medical Doctor|Demo data describing the Smiths.
+|c testosteroni|9 tests of a wife|u test instructions|Earnings for Three Age Groups|Tipping data
+|test drive|9 test screening battery|test video|Cost Function for Electricity Producers|Aircraft Data
+|test drive unlimited|9 test playing nations|test validity|Extramarital Affairs Data|Air Quality Data
+|test driven development|testequity|test version crossword clue|Drunk Driving Laws and Traffic Deaths|Alcohol Solubility in Water Data
+|test definition|test engineer salary|test vpn|Choice of Fishing Mode|Daily Means of NOx (mono-nitrogen oxides) in air
+|test drive unlimited 2|test e 300|test variable|Exchange Rates of US Dollar Against Other Currencies|Brain and Body Weights for 65 Species of Land Animals
+|test drive lyrics|test email address|test visa card|Data from the Television Game Show Friend Or Foe ?|Biomass Tillage Data
+|test drive eve of destruction|test exchange connectivity|test video camera|Daily Observations on Exchange Rates of the US Dollar Against Other Currencies|Campbell Bushfire Data
+|test download speed|test eggs|test volume|Gasoline Consumption|Insect Damages on Carrots
+|test drive tesla|test every spirit|test video download|Wage Datas|Cloud point of a Liquid
+|test day|e test interpretation|test version|Grunfeld Investment Data|Coleman Data Set
+|d test clindamycin|e test strips|v testaverde|Heating and Cooling System Choice in Newly Built Houses in California|Condroz Data
+|d test micro|e test online|v testaverde jr|The Boston HMDA Data Set|Crohn's Disease Adverse Events Data
+|d test explained|e tester|vtestify|Heating System Choice in California Houses|Cushny and Peebles Prolongation of Sleep Data
+|d testament books|e test mic|v test statistics|Hedonic Prices of Census Tracts in Boston|Delivery Time Data
+|d test clindamycin wikipedia|e testosterone|v testaverde tampa bay buccaneers|Cybersecurity breaches reported to the US Department of Health and Human Services|Education Expenditure Data
+|d test procedure|e tester belongs to|v test studio|Health Insurance and Hours Worked By Wives|Epilepsy Attacks Data Set
+|d test blood clot|e test vancomycin|v tester|The Boston HMDA Data Set|Example Data of Antille and May - for Simple Regression
+|d test statistics|e test personality|v testulat champagne brut|Sales Prices of Houses in the City of Windsor|Food Stamp Program Participation
+|d test bacteria|e test reading|v testing process is|Housing Starts|"Hawkins| Bradu| Kass's Artificial Data"
+|d test positive mrsa|test fax|v testicularis|Ice Cream Consumption|Heart Catherization Data
+|test engineer|test for m.a. seekers crossword|test webcam|Global Terrorism Database yearly summaries|Waterflow Measurements of Kootenay River in Libby and Newgate
+|test equipment depot|test for diabetes|test wwe|Income Inequality in the US|Lactic Acid Concentration Measurement Data
+|test email|test for ma seekers crossword clue|test website|Seasonally Unadjusted Quarterly Data on Disposable Income and Expenditure|Length of Stay Data
+|testequity|test flight|test wrestler|Monthly Interest Rates|Daudin's Milk Composition Data
+|test engineer salary|test for dementia|test water heater element|Economic Journals Dat Set|NOx Air Pollution Data
+|test e 300|test for dyslexia|test wifi signal|Willingness to Pay for the Preservation of the Kakadu National Park|Pension Funds Data
+|test email address|f test table|test website speed|Choice of Brand for Ketchup|Phosphorus Content Data
+|test exchange connectivity|d test bacteria|test water heater thermostat|Klein's Model I|Pilot-Plant Data
+|test eggs|d test positive mrsa|test wifi connection|Wages and Hours Worked|Possum Diversity Data
+|test every spirit|test engineer|w test championship points table|Belgian Firms|Pulp Fiber and Paper Data
+|e test interpretation|test equipment depot|w test for normality|The Longley Data|Satellite Radar Image Data from near Munich
+|e test strips|test email|w test championship|Dollar Sterling Exchange Rate|Salinity Data
+|e test online|testequity|w testamencie|Macroeconomic Time Series for the United States|Siegel's Exact Fit Example Data
+|e tester|test engineer salary|w testamencie krzyżówka|Wages and Education of Young Males|Hertzsprung-Russell Diagram Data of Star Cluster CYG OB1
+|e test mic|test e 300|w testamencie zapis|Manufacturing Costs|Steam Usage Data (Excerpt)
+|e testosterone|test email address|w testamencie to legat|Level of Calculus Attained for Students Taking Advanced Micro-economics|Number of International Calls from Belgium
+|e tester belongs to|test exchange connectivity|test w.b.c|The Massachusetts Test Score Data Set|Toxicity of Carboxylic Acids Data
+|e test vancomycin|test eggs|w&g test|Structure of Demand for Medical Care|Vaso Constriction Skin Data Set
+|e test personality|test every spirit|testosteron w tabletkach|Production for SIC 33|Wagner's Hannover Employment Growth Data
+|e test reading|e test interpretation|test xfinity speed|Inflation and Interest Rates|Modified Data on Wood Specific Gravity
+|test fax|e test strips|test xml|Mode Choice|Automobile Data from 'Consumer Reports' 1990
+|test for m.a. seekers crossword|e test online|test x180 reviews|Data to Study Travel Mode Choice|Automobile Data from 'Consumer Reports' 1990
+|test for diabetes|e tester|test xpath|"International Expansion of U.S. Mofa's (majority-owned Foreign Affiliates in Fire (finance| Insurance and Real Estate)"|Automobile Data from 'Consumer Reports' 1990
+|test for ma seekers crossword clue|e test mic|test xbox controller on pc|"Money| GDP and Interest Rate in Canada"|Data on Children who have had Corrective Spinal Surgery
+|test flight|e testosterone|test xml file|Macroeconomic Series for the United States|Soldering of Components on Printed-Circuit Boards
+|test for dementia|e tester belongs to|x testada|"Money| National Product and Interest Rate"|Stage C Prostate Cancer
+|test for dyslexia|e test vancomycin|x test adhd|Labor Supply Data|Innovation and Institutional Ownership
+|f test table|e test personality|x testo|Municipal Expenditure Data|US Investment Data
+|test camera|e test reading|x test statistics|Growth of Disposable Income and Treasury Bill Rate|Petersen's Simulated Data for Assessing Clustered Standard Errors
+|test corrections|test fax|x testada simbolo|Willingness to Pay for the Preservation of the Alentejo Natural Park|US Expenditures for Public Schools
+|c testing framework|test for m.a. seekers crossword|x test table|"Cost Function for Electricity Producers| 1955"|Bollen's Data on Industrialization and Political Democracy
+|c tester|test for diabetes|x testada word|Global Terrorism Database yearly summaries|Variables from the 1997 Canadian National Election Study
+|c test if file exists|test for ma seekers crossword clue|x testada en excel|Names with Character Set Problems|Klein's Data on the U. S. Economy
+|c testosterone|test flight|x test y test|Visits to Physician Office|Partly Artificial Data on the U. S. Economy
+|c test and set|test for dementia|x testosterone|Oil Investment|Six Mental Tests
+|c test function|test for dyslexia|test your internet speed|The Orange Juice Data Set|Prices of Used Honda Accords (in 2017)
+|c test for empty string|f test table|test your iq|Labor Force Participation|Congressional Votes on American Health Care Act (in 2017)
+|c test for null|f test statistic|test your typing speed|Dynamic Relation Between Patents and R&D|Ontime Records for Two Airlines at Two Airports
+|c test if directory exists|f test calculator|test your metal|"Patents| R&D and Technological Spillovers for a Panel of Firms"|Alfalfa Growth
+|c testosteroni|f test in r|test your mettle|Price and Earnings Index|US Senate Votes on Samuel Alito for the Supreme Court
+|test drive|f test formula|test your knowledge|Political knowledge in the US and Europe|Amyloid-beta and Cognitive Impairment
+|test drive unlimited|f test excel|test your intolerance|Pound-dollar Exchange Rate|Daily Price and Volume of Apple Stock
+|test driven development|f test vs t test|test your love|Exchange Rates and Price Indices for France and Italy|Scores in an Archery Class
+|test definition|f test degrees of freedom|test your intolerance reviews|Returns of Size-based Portfolios|"Athletic Participation| Race| and Graduation"
+|test drive unlimited 2|f test regression|test your mic|Us States Production|Reaction Times to Audio and Visual Stimuli
+|test drive lyrics|f test p value|y test dna|Panel Survey of Income Dynamics|Noise Levels of Filters to Reduce Automobile Pollution
+|test drive eve of destruction|test generator|y test balance|Return to Schooling|Weights of College Student Backpacks
+|test download speed|test guide|y test acl|Wages and Schooling|Baseball Game Times of One Day in 2008
+|test drive tesla|test grader|y tostada|Solow's Technological Change Data|Baseball Game Times of One Day in 2017
+|test day|test group|y test kit|Visits to Lake Somerville|Do Bee Stings Depend on Previous Stings?
+|d test clindamycin|test gif|y testis pain|Returns on Standard & Poor's 500 Index|Effect of a Hormone on Bird Calcium Levels
+|d test micro|test graphics card|y test scoring|Effects on Learning of Small Class Sizes|Nest Characteristics for Different Bird Species
+|d test explained|test gpu|y testada|Strike Duration Data|"Blood Pressure| Weight| and Smoking Status"
+|d testament books|test games|y teste fisioterapia|Strikes Duration|Blue Jay Measurements
+|d test clindamycin wikipedia|test grade|y teste como fazer|Number of Strikes in Us Manufacturing|Brain pH Measurements
+|d test procedure|g test canada|test zoom|The Penn Table|Drew Brees Passing Statistics (2016)
+|d test blood clot|g test table|test zip file|"Interest Rate| GDP and Inflation"|Attitudes Towards British Trade Unions
+|d test statistics|g test calculator|test zener diode|Global Terrorism Database yearly summaries|Butterfly (Boloria chariclea) Measurements
+|d test bacteria|g test statistics|test zoom audio|Households Tobacco Budget Share|US Senate Votes on Corporate Average Fuel Economy Bill
+|d test positive mrsa|g test in r|test zone|Stated Preferences for Train Traveling|Do Calcium Supplements Lower Blood Pressure?
+|test engineer|g test plus|test zodiac|Statewide Data on Transportation Equipment Manufacturing|Canadian Drugs Senate Vote
+|test equipment depot|g test air force|test za trudnocu|Evaluating Treatment Effect of Training on Earnings|Survival Times for Different Cancers
+|test email|g test for outliers|test zinc levels|Choice of Brand for Tuna|Measurements of Manduca Sexta Caterpillars
+|testequity|g test goodness of fit|test zip file download|Unemployment Duration|Cleveland Cavalier's Shooting (2016-2017)
+|test engineer salary|g test excel|test zoom mic|Unemployment Duration|Nutrition Content of Breakfast Cereals
+|test e 300|test html|z test calculator|Provision of University Teaching and Research|THC for Antinausea Treatment in Chemotherapy
+|test email address|test harness|z test formula|Official Secrecy of the United States Government|Age at First Speaking
+|test exchange connectivity|test html code|z test vs t test|US Finance Industry Profits|Clinton/Sanders Primary Results (2016)
+|test eggs|test hard drive|z test statistic|US GDP per capita with presidents and wars|Sales for a Clothing Retailer
+|test every spirit|test headphones|z test statistic calculator|Standard abbreviations for states of the United States|Cloud Seeding Experiment (Winter Only)
+|e test interpretation|test hypothesis|z test table|Number of Words in US Tax Law|Cloud Seeding Experiment (Four Seasons)
+|e test strips|test hard drive speed|z test excel|Medical Expenses in Viet-nam (household Level)|Daily CO2 Measurements in Germany
+|e test online|test how fast you type|z test example|Medical Expenses in Viet-nam (individual Level)|Daily CO2 Measurements in Germany
+|e tester|test hair color|z test in r|Panel Datas of Individual Wages|CO2 Readings in Hawaii
+|e test mic|test hd|z test statistic formula|"Wages| Experience and Schooling"|CO2 Readings at the South Pole
+|e testosterone|h test eye|test 02 sensor|Wife Working Hours|Drug Interaction with Contraceptives
+|e tester belongs to|h test eye exam|test 02 sensor heater circuit|Yen-dollar Exchange Rate|County Health Resources
+|e test vancomycin|h test hamstring|test 02 sensor with multimeter|Choice of Brand for Yogurts|Crab Oxygen Intake
+|e test personality|h test eye muscles|test 0800 number|Daily Log Returns on BMW Share Price|Effects of Cracker Fiber on Digested Calories
+|e test reading|h test embroidery|test 000|Danish Fire Insurance Claims|Overdrawn Checking Account?
+|test fax|h test extraocular muscles|test $07 data fail|The River Nidd Data|Measurements of Cuckoo Eggs
+|test for m.a. seekers crossword|h test calculator|test 02|The River Nidd Data|First Day Survey of Statistics Students
+|test for diabetes|h test explained|test 0nline|Daily Log Returns on Siemens Share Price|Lactic Acid Turnover in Dogs
+|test for ma seekers crossword clue|h test statistics|0 test classes found in package|SP Data to June 1993|Characteristics of a Sample of Diamonds
+|test flight|h test cranial nerves|0 testosterone|SP Return Data to October 1987|Characteristics of a Subset of the Diamond Sample
+|test for dementia|test internet|0 testosterone level|Australian monthly gas production|Iridium Levels in Rock Layers to Investigate Dinosaur Extinction
+|test for dyslexia|test in spanish|0 testosterone in a woman|Daily morning gold prices|2008 U.S. Presidential Election
+|f test table|test image|0 testo nitro|Half-hourly electricity demand|2016 U.S. Presidential Election
+|test camera|test internet connection speed|0 tests found visual studio|Australian total wine sales|Measurements of Male African Elephants
+|test corrections|test ipv6|*#0*# test|Quarterly production of woollen yarn in Australia|Measurements of African Elephants
+|c testing framework|test iq|0 tests completed karma|Monthly anti-diabetic drug sales in Australia from 1991 to 2008.|Effects of Oxygen on Sugar Metabolism
+|c tester|test icon|0 tests run visual studio|International Arrivals to Australia|Pupil Dilation and Sexual Orientation
+|c test if file exists|test internet speed frontier|testarossa 0-60|Air Transport Passengers Australia|Facial Attractiveness of Men
+|c testosterone|test innovators|test 123|Quarterly Australian Beer production|Faithfulness from a Photo?
+|c test and set|i testigo|test 1700|Monthly expenditure on eating out in Australia|Selection Times in a Fantasy Baseball Draft
+|c test function|i testify|test 10|International visitors to Australia|Diet and Weight of Rats
+|c test for empty string|i tested positive for hpv|test 12v battery|International Tourists to Australia: Total visitor nights.|Fertility Data for Women Having Trouble Getting Pregnant
+|c test for null|i tested positive for hsv 1|test 144hz|Call volume for a large North American bank|Results of NFL Field Goal Attempts
+|c test if directory exists|i test in production|test 1a ap statistics answers|Retail debit card usage in Iceland.|Film Data from Leonard Maltin's Guide
+|c testosteroni|i tested positive for tb|test 1b ap statistics answers|Total monthly departures from Australia|NCAA Final Four by Seed and Tom Izzo (through 2010)
+|test drive|itestigo cast|test 12v battery with multimeter|"Half-hourly and daily electricity demand for Victoria| Australia| in 2014"|NCAA Final Four by Seed and Tom Izzo (through 2017)
+|test drive unlimited|i testify by ada|test 180x|"Half-hourly and daily electricity demand for Victoria| Australia| in 2014"|NCAA Final Four by Seed (Long Version through 2010)
+|test driven development|i tested negative for herpes|1 testosterone|Electrical equipment manufactured in the Euro area.|NCAA Final Four by Seed (Long Version through 2017)
+|test definition|i tested positive for herpes|1 test cyp|Electricity sales to residential customers in South Australia.|CAA Final Four by Seed (Short Version through 2010)
+|test drive unlimited 2|test java|1 testosterone gel|Quarterly retail trade: Euro area.|NCAA Final Four by Seed (Short Version through 2017)
+|test drive lyrics|test javascript|1 test plug|US finished motor gasoline product supplied.|Finger Tap Rates
+|test drive eve of destruction|test javascript online|1 testosterone side effects|Daily closing stock prices of Google Inc|First Year GPA for College Students
+|test download speed|test java code|1 testosterone cycle|Daily closing stock prices of Google Inc|Fertility of Fish Eggs
+|test drive tesla|test json|1 testosterone cream|Rice production (Guinea)|Body Measurements of Mammal Species
+|test day|test java code online|1 testosterone stack|Monthly corticosteroid drug sales in Australia from July 1991 to June 2008.|Response of Migratory Geese to Helicopter Overflights
+|d test clindamycin|test javascript code|1 testicle dog|Daily pageviews for the Hyndsight blog. 30 April 2014 to 29 April 2015.|Florida Death Penalty Cases
+|d test micro|test jpg|j test nepal|Insurance quotations and advertising expenditure.|Measuring Calcium Binding to Proteins
+|d test explained|test json api|test kitchen recipes|"Livestock (sheep) in Asia| 1961-2007."|Finger Tap Rates
+|d testament books|test js|test king|Boston marathon winning times since 1897|Fruit Fly Sexual Activity and Longevity
+|d test clindamycin wikipedia|j test statistics|test keyboard|"Maximum annual temperatures at Moorabbin Airport| Melbourne"|Fruit Fly Sexual Activity and Male Competition
+|d test procedure|j test knee|test kitchen cape town|"Total weekly air passenger numbers on Ansett airline flights between Melbourne and Sydney| 1987-1992."|Funnel Drop Times
+|d test blood clot|j test econometrics|test kitchen jobs|Winning times in Olympic men's 400m track final. 1896-2016.|Female Glow-worms
+|d test statistics|j test in r|test kitchen cookbook|Annual oil production in Saudi Arabia|Goldenrod Galls
+|d test bacteria|j test usa|test keyboard keys|prison|"House Sales in Grinnell| Iowa"
+|d test positive mrsa|j test result|test ketone levels|prison|Grocery Sales and Discounts
+|test engineer|j test mongolia|test kitchen south africa|Quarterly Australian Electricity production|Are Gunnels Present at Shoreline?
+|test equipment depot|j test exam|k test results|Quarterly Australian Portland Cement production|Guess Author's Sex from Handwriting?
+|test email|j test indonesia|k test statistics|Quarterly Australian Gas Production|Measurements on Three Hawk Species
