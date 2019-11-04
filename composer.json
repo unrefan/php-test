@@ -3,7 +3,20 @@
     "require": {},
     "scripts": {
         "compile": [
-            "chmod -R 777 public/"
+            "chmod -R 777 public/",
+            "php -r \"include './bootstrap.php'; use App\\PagesCreator; PagesCreator::make('data');\""
         ]
+    },
+    "autoload": {
+        "files": [
+            "helpers.php",
+            "bootstrap.php"
+        ],
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
     }
 }

@@ -8,7 +8,7 @@
 <?php
     require_once ('../bootstrap.php');
     use App\PagesCreator;
-    PagesCreator::make('data');
+    (new PagesCreator('data'))->read()->render();
 ?>
 </body>
 </html>
