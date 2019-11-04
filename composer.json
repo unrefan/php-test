@@ -1,4 +1,9 @@
 {
     "name": "user/data-pages",
-    "require": {}
+    "require": {},
+    "scripts": {
+        "compile": [
+            "chmod -R 777 public/"
+        ]
+    }
 }
