@@ -22,8 +22,7 @@ class PagesCreator
         (new self($path))
             ->read()
             ->check()
-            ->create()
-            ->render();
+            ->create();
     }
 
     public function read()
