@@ -7,8 +7,11 @@
 <body>
 <?php
     require_once ('../bootstrap.php');
-    use App\PagesCreator;
-    (new PagesCreator('data'))->read()->render();
+
+    use App\FileLoader;
+
+    FileLoader::render($_SERVER['REQUEST_URI'], '../data');
+
 ?>
 </body>
 </html>

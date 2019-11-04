@@ -3,8 +3,7 @@
     "require": {},
     "scripts": {
         "compile": [
-            "chmod -R 777 public/",
-            "php -r \"include './bootstrap.php'; use App\\PagesCreator; PagesCreator::make('data');\""
+            "chmod -R 777 public/"
         ]
     },
     "autoload": {
