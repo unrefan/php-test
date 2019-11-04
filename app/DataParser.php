@@ -53,10 +53,10 @@ class DataParser
 
             if (file_exists($file)) {
                 PageBuilder::create($name, $name, $file_suffixed);
-                array_push($this->links, LinkBuilder::make($href_suffixed, $name));
+                array_push($this->links, LinkBuilder::make($this->href($href_suffixed), $name));
             } else {
                 PageBuilder::create($name, $name, $file);
-                array_push($this->links, LinkBuilder::make($href, $name));
+                array_push($this->links, LinkBuilder::make($this->href($href), $name));
             }
         }
 
