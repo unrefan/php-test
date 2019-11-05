@@ -33,10 +33,12 @@ if (!function_exists('slug')) {
 if (!function_exists('find_line_number_by_string')) {
     function find_line_number_by_string($content, $search)
     {
-        $content_before_string = strstr($content, $search, true);
+        if (!empty($search)) {
+            $content_before_string = strstr($content, $search, true);
 
-        if (false !== $content_before_string) {
-            return count(explode(PHP_EOL, $content_before_string));
+            if (false !== $content_before_string) {
+                return count(explode(PHP_EOL, $content_before_string));
+            }
         }
         return null;
     }

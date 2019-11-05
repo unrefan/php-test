@@ -68,14 +68,16 @@ class FileLoader
             unset($page[count($page) - 1]);
         }
         $currentDir = implode(' ', $page);
-        $content = removeBOM(file_get_contents('../data'.$currentDir.'.txt'));
-        $content_s = explode('|', $content);
-        $this->chunks = array_chunk($content_s, 15);
-        $this->href = substr($currentDir, 1, strlen($currentDir));
-        foreach ($content_s as $index => $link) {
-            $this->lines['/'.slug(file_name($this->href)).'/'.slug($link).'.html'] = find_line_number_by_string($content, $link);
+        if ($currentDir !== '/') {
+            $content = removeBOM(file_get_contents('../data'.$currentDir.'.txt'));
+            $content_s = explode('|', $content);
+            $this->chunks = array_chunk($content_s, 15);
+            $this->href = substr($currentDir, 1, strlen($currentDir));
+            foreach ($content_s as $index => $link) {
+                $this->lines['/'.slug(file_name($this->href)).'/'.slug($link).'.html'] = find_line_number_by_string($content, $link);
+            }
+            $this->chunk = $this->chunks[$page_number];
         }
-        $this->chunk = $this->chunks[$page_number];
 
         return $this;
     }
