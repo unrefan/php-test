@@ -10,8 +10,6 @@
 
     use App\FileLoader;
 
-    var_dump($_SERVER['REQUEST_URI']);
-
     FileLoader::render($_SERVER['REQUEST_URI'], '../data');
 
 ?>

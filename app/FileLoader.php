@@ -105,7 +105,6 @@ class FileLoader
 
     private function renderPage()
     {
-        var_dump($this->chunk);
         foreach ($this->chunk as $link) {
             echo "<a href='". $this->path.slug(file_name($this->href)).'/'.slug($link).'.html' ."'>". $link ."</a><br>";
         }
