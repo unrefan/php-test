@@ -35,9 +35,11 @@ if (!function_exists('find_line_number_by_string')) {
     {
         if (!empty($search)) {
             $content_before_string = strstr($content, $search, true);
+            $lines = explode(PHP_EOL, $content);
 
             if (false !== $content_before_string) {
-                return count(explode(PHP_EOL, $content_before_string));
+                $lines_before = explode(PHP_EOL, $content_before_string);
+                return $lines[count($lines_before) - 1];
             }
         }
         return null;
